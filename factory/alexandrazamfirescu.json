@@ -1,0 +1,15 @@
+{
+	"name": "alexandrazamfirescu",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7bb8e962-bc62-44f7-8bf1-7b72a5ee6b6b",
+		"tenantId": "08a1a72f-fecd-4dae-8cec-471a2fb7c2f1"
+	}
+}
